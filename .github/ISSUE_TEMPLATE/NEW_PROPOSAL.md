@@ -27,7 +27,7 @@ Please complete the following sections when you open a new proposal issue.
 <!-- Please asnwer in 'Yes' or 'No', Since this session will be possibly taking place in a time zone that is not compatible for everyone, we would liek to record the presentation/introduction and conclusion/final wrap up part of your session through Zoom recording option.-->
 
 ### Abstract
-<!-- Please provide a short  -->
+<!-- Please provide a short abstract of no more than 250 words - give some background, format of the session, learning/expected outcome, target audience, and possible future directions."-->
 
 * WRITE HERE
 
