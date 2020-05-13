@@ -41,7 +41,7 @@ Please complete the following sections when you open a new proposal issue.
 
 * Country of residence and/or compatible Time Zones (provide options): WRITE HERE
 
-* Would you like to present this multiple times in other time zones: WRITE HERE 
+* Would you like to present this multiple times, in other time zones: WRITE HERE 
 <!-- please suggest suitable time zones -->
 
 * Would you like to volunteer to be listed as a wrangler/host for your time zone 
