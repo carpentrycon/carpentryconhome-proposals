@@ -18,7 +18,7 @@ Please complete the following sections when you open a new proposal issue.
 ### Session details
 
 * Session type: WRITE HERE 
-<!-- Choose from these options: Breakout discussion, skill-up, social event, lightening talk, informal meetup, panel, pub quiz on specific topic, or other -->
+<!-- Choose from these options: Breakout discussion, skill-up, social event, lightning talk, informal meetup, panel, or other -->
 
 * Keywords: WRITE HERE 
 <!--Please provide 3-5 keywords to help your expected target audience to decide the relevance of this session-->
