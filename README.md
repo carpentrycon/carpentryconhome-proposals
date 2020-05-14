@@ -4,9 +4,7 @@ This repository provides a location to add all proposals for CarpentryCon @ Home
 
 ## More about CarpentryCon @ Home:
 
-You asked and we listened! 
-
-A small group of volunteers have formed an ad-hoc organising committee to make sure that a community conference happens this year. One of the motivations is to make place for our community members to show off their accomplishments and hard work in the regional and global Carpentries network in last years, and connect with others in the community. Therefore, we are moving forward with organising the The CarpentryCon@Home, A virtual version of The CarpentryCon conference.
+We can’t meet in person for CarpentryCon 2020, so we’re bringing CarpentryCon to you! CarpentryCon @ Home is an online series of events happening in July and August, sharing some of the great content that was planned for CarpentryCon 2020 in Madison, WI including keynotes, breakouts, lightning talks, and socialising. 
 
 In this repo, we invite you to add your proposal of a session details for which is provided below.
 
@@ -31,8 +29,6 @@ See the definition of each event below:
 * Breakout discussion: These sessions are 1.5 hours long and conducted in a round table format. They will play crucial role in connecting the conference participants based on their common interests and stimulate discussion on the relevant topics. A few examples of the breakout sessions from CarpentryCon Dublin 2018:Chasing Funding for Workshops and The Carpentries Membership, How Can We Develop New Curricula and Contribute to Existing Lessons, Incubating a New Carpentry, Mentoring, etc. 
 
 * Skill-up workshops: A workshop is a way for you to pass on your ideas and expertise to other participants in a 1.5 - 2 hours long session. You can reach out to a larger numbers of people by conducting a workshop on the topic that you find important and facilitate a positive learning environment for the attendees. It can also be a training workshop that will allow participants to develop new skills. A few examples of the workshops from the CarpentryCon 2018 are: Ally workshop, Bring and Build Your Own Lesson 'Carpentries-style', Next Steps in R, Library Carpentry On-Boarding, Project Leadership, Speaking Effectively, Contributing on GitHub, Leading a Research Lab, Shell Tips and Tricks, etc.
-
-* Poster session: A poster will allow you to exchange your work and idea with others in an informal manner during a poster session. A 1.5-2 hours long session will be allotted in the program for poster presentation.
 
 * Panel session: A panel discussions will be 1-1.5 hour long live discussions about a specific topic amongst a selected group of panelists who share differing perspectives. The proposal author or suggested lead will moderate and guides the panel and the audience through the event. Panelists are ideally 3-4 experts in the field, who will shares ideas, evidences/studies, and opinions, and address questions from the audience eithwe curated by the moderator or asked by the attendees.
 
