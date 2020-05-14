@@ -1,46 +1,48 @@
 # CarpentryCon @ Home Proposal Repository
 
+Welcome to the CarpentryCon @ Home Proposal Repository!🌸
+
 This repository provides a location to add all proposals for CarpentryCon @ Home as GiHub issues.
+Please note that [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) applied to this event and the current repository.
 
 ## More about CarpentryCon @ Home:
 
-You asked and we listened! 
+🎊You asked and we listened! 🙌
 
-A small group of volunteers have formed an ad-hoc organising committee to make sure that a community conference happens this year. One of the motivations is to make place for our community members to show off their accomplishments and hard work in the regional and global Carpentries network in last years, and connect with others in the community. Therefore, we are moving forward with organising the The CarpentryCon@Home, A virtual version of The CarpentryCon conference.
+A small group of volunteers have formed an ad-hoc organising committee to make sure that a community conference happens this year. One of the motivations is to make place for our community members to show off their accomplishments and hard work in the regional and global Carpentries network in last years, and connect with others in the community. Therefore, we are moving forward with organising the The CarpentryCon@Home, a virtual version of The CarpentryCon conference.
 
-In this repo, we invite you to add your proposal of a session details for which is provided below.
+In this repo, we invite you to add your proposal of a session, details for which is provided below.
 
 ## Instructions on the submission process
 
 Here are the steps for submitting a proposal:
 
-1. Click [Issues](https://github.com/carpentrycon/carpentryconhome-proposals/issues) tab in this repository
-2. Click the issue template to add a new proposal as an issue
-3. Fill the template with your reponses and proposal
-4. Since this is a public repository, it will be open for anyone to see and comment on. Therefore, you can use your pseudonym if you prefer. Adding email here is optional, but please add other ways to contact you (for e.g. The Carpentries Slack channel, or your Twitter account). 
+1. Click [the New Proposal issue template](https://github.com/carpentrycon/carpentryconhome-proposals/issues/new/choose) tab in this repository
+2. Fill the template with details from your proposal
+4. Since this is a public repository, it will be open for anyone to see and comment on. Therefore, you can use your pseudoname or GitHub ID in the text frield for name if you prefer. Adding email here is also optional, but please add other ways to contact you (for e.g. The Carpentries Slack channel, or your Twitter id). 
 
 ### What are the different kinds of sessions that can be proposed?
 
-We have listed a few ideas of session types that include breakout discussion, skill-up, social event, informal meetup, panel, lesson or resource development sprint or other. 
+We have listed a few ideas of session types that include breakout discussion, skill-up, social event, informal meetup, panel session, resource development sprint or other. 
 We encourage designing a proposal that invites and welcomes participation from a diverse community of learner, educators, instructors, maintainers, researchers, developers, artists, and other stakeholders online.
 
-Each session lead is encouraged to list the expected outcome from their session. Ideally there should be apossibility to record a video from the session and/or create a blog post summary after their session is over.
+Each session lead is encouraged to list the expected outcome from their session. Ideally there should be a possibility to record a video from the session and/or create a blog post summary after their session is over.
 
 See the definition of each event below:
 
-* Breakout discussion: These sessions are 1.5 hours long and conducted in a round table format. They will play crucial role in connecting the conference participants based on their common interests and stimulate discussion on the relevant topics. A few examples of the breakout sessions from CarpentryCon Dublin 2018:Chasing Funding for Workshops and The Carpentries Membership, How Can We Develop New Curricula and Contribute to Existing Lessons, Incubating a New Carpentry, Mentoring, etc. 
+* **Breakout discussion**: These sessions are 1.5 hours long and conducted in a round table format. They will play crucial role in connecting the conference participants based on their common interests and stimulate discussion on the relevant topics. A few examples of the breakout sessions from CarpentryCon Dublin 2018:Chasing Funding for Workshops and The Carpentries Membership, How Can We Develop New Curricula and Contribute to Existing Lessons, Incubating a New Carpentry, Mentoring, etc. 
 
-* Skill-up workshops: A workshop is a way for you to pass on your ideas and expertise to other participants in a 1.5 - 2 hours long session. You can reach out to a larger numbers of people by conducting a workshop on the topic that you find important and facilitate a positive learning environment for the attendees. It can also be a training workshop that will allow participants to develop new skills. A few examples of the workshops from the CarpentryCon 2018 are: Ally workshop, Bring and Build Your Own Lesson 'Carpentries-style', Next Steps in R, Library Carpentry On-Boarding, Project Leadership, Speaking Effectively, Contributing on GitHub, Leading a Research Lab, Shell Tips and Tricks, etc.
+* **Skill-up workshops**: A workshop is a way for you to pass on your ideas and expertise to other participants in a 1.5 - 2 hours long session. You can reach out to a larger numbers of people by conducting a workshop on the topic that you find important and facilitate a positive learning environment for the attendees. It can also be a training workshop that will allow participants to develop new skills. A few examples of the workshops from the CarpentryCon 2018 are: Ally workshop, Bring and Build Your Own Lesson 'Carpentries-style', Next Steps in R, Library Carpentry On-Boarding, Project Leadership, Speaking Effectively, Contributing on GitHub, Leading a Research Lab, Shell Tips and Tricks, etc.
 
-* Poster session: A poster will allow you to exchange your work and idea with others in an informal manner during a poster session. A 1.5-2 hours long session will be allotted in the program for poster presentation.
+* **Poster session**: A poster will allow you to exchange your work and idea with others in an informal manner during a poster session. A 1.5-2 hours long session will be allotted in the program for poster presentation.
 
-* Panel session: A panel discussions will be 1-1.5 hour long live discussions about a specific topic amongst a selected group of panelists who share differing perspectives. The proposal author or suggested lead will moderate and guides the panel and the audience through the event. Panelists are ideally 3-4 experts in the field, who will shares ideas, evidences/studies, and opinions, and address questions from the audience eithwe curated by the moderator or asked by the attendees.
+* **Panel session**: A panel discussions will be 1-1.5 hour long live discussions about a specific topic amongst a selected group of panelists who share differing perspectives. The proposal author or suggested lead will moderate and guides the panel and the audience through the event. Panelists are ideally 3-4 experts in the field, who will shares ideas, evidences/studies, and opinions, and address questions from the audience eithwe curated by the moderator or asked by the attendees.
 
-* Social event and informal meetups: These could be 1-2 hour long social calls to network with the community members over certain theme or format. For example, themed pub quiz, informal discussions on community, data science, teaching, creative writing, knitting, cross stitching, yoga, meditation, self care, virtual museum tour, storytelling etc.
+* **Social event and informal meetups**: These could be 1-2 hour long social calls to network with the community members over certain theme or format. For example, themed pub quiz, informal discussions on community, data science, teaching, creative writing, knitting, cross stitching, yoga, meditation, self care, virtual museum tour, storytelling etc.
 
-* Lesson or resource development sprint: This can be 1 day - 1 month long collaborative effort to develop lesson to resources relevant to The Carpentries community. 
+* **Lesson or resource development sprint**: This can be 1 day - 1 month long collaborative effort to develop lesson to resources relevant to The Carpentries community. 
 
-* Other: If none of these sessions fits your idea, please use the "other" option.
+* **Other**: If none of these sessions fits your idea, please use the "other" option.
 
 ### How does the "Issue Template" look like?
 
