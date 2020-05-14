@@ -6,15 +6,15 @@ This repository provides a location to add all proposals for CarpentryCon @ Home
 
 We can’t meet in person for CarpentryCon 2020, so we’re bringing CarpentryCon to you! CarpentryCon @ Home is an online series of events happening in July and August, sharing some of the great content that was planned for CarpentryCon 2020 in Madison, WI including keynotes, breakouts, lightning talks, and socialising. 
 
-In this repo, we invite you to add your proposal of a session details for which is provided below.
+In this repo, we invite you to add your proposal of a session, details for which is provided below.
 
 ## Instructions on the submission process
 
 Here are the steps for submitting a proposal:
 
-1. Click [Issues](https://github.com/carpentrycon/carpentryconhome-proposals/issues) tab in this repository
-2. Click the issue template to add a new proposal as an issue
-3. Fill the template with your reponses and proposal
+1. Click on the [Issues](https://github.com/carpentrycon/carpentryconhome-proposals/issues) tab in this repository, and then the "New Issue" button. 
+2. You should see a selection of issue templates - choose the "New Proposal" option and click the "Get Started" button. 
+3. Fill the template with your reponses and proposal. 
 4. Since this is a public repository, it will be open for anyone to see and comment on. Therefore, you can use your pseudonym if you prefer. Adding email here is optional, but please add other ways to contact you (for e.g. The Carpentries Slack channel, or your Twitter account). 
 
 ### What are the different kinds of sessions that can be proposed?
@@ -22,26 +22,27 @@ Here are the steps for submitting a proposal:
 We have listed a few ideas of session types that include breakout discussion, skill-up, social event, informal meetup, panel, lesson or resource development sprint or other. 
 We encourage designing a proposal that invites and welcomes participation from a diverse community of learner, educators, instructors, maintainers, researchers, developers, artists, and other stakeholders online.
 
-Each session lead is encouraged to list the expected outcome from their session. Ideally there should be apossibility to record a video from the session and/or create a blog post summary after their session is over.
+Because we would like to make sessions available for those who cannot attend, please indicate if there is the possibility to record a video from the session and/or create a blog post summary.
 
 See the definition of each event below:
 
-* Breakout discussion: These sessions are 1.5 hours long and conducted in a round table format. They will play crucial role in connecting the conference participants based on their common interests and stimulate discussion on the relevant topics. A few examples of the breakout sessions from CarpentryCon Dublin 2018:Chasing Funding for Workshops and The Carpentries Membership, How Can We Develop New Curricula and Contribute to Existing Lessons, Incubating a New Carpentry, Mentoring, etc. 
+* Breakout discussion: These sessions are 1.5 hours long and conducted in a round table or general discussion format. They will play crucial role in connecting the participants based on their common interests and stimulate discussion on the relevant topics. A few examples of the breakout sessions from CarpentryCon Dublin 2018: Chasing Funding for Workshops and The Carpentries Membership, How Can We Develop New Curricula and Contribute to Existing Lessons, Incubating a New Carpentry, Mentoring, etc. 
 
 * Skill-up workshops: A workshop is a way for you to pass on your ideas and expertise to other participants in a 1.5 - 2 hours long session. You can reach out to a larger numbers of people by conducting a workshop on the topic that you find important and facilitate a positive learning environment for the attendees. It can also be a training workshop that will allow participants to develop new skills. A few examples of the workshops from the CarpentryCon 2018 are: Ally workshop, Bring and Build Your Own Lesson 'Carpentries-style', Next Steps in R, Library Carpentry On-Boarding, Project Leadership, Speaking Effectively, Contributing on GitHub, Leading a Research Lab, Shell Tips and Tricks, etc.
 
-* Panel session: A panel discussions will be 1-1.5 hour long live discussions about a specific topic amongst a selected group of panelists who share differing perspectives. The proposal author or suggested lead will moderate and guides the panel and the audience through the event. Panelists are ideally 3-4 experts in the field, who will shares ideas, evidences/studies, and opinions, and address questions from the audience eithwe curated by the moderator or asked by the attendees.
+* Panel session: A panel discussions will be 1-1.5 hour long live discussions about a specific topic amongst a selected group of panelists who share differing perspectives. The proposal author or suggested lead will moderate the panel and the audience through the event. Panelists are ideally 3-4 experts in the field, who will shares ideas, evidences/studies, and opinions, and address questions from the audience eithwe curated by the moderator or asked by the attendees.
 
 * Social event and informal meetups: These could be 1-2 hour long social calls to network with the community members over certain theme or format. For example, themed pub quiz, informal discussions on community, data science, teaching, creative writing, knitting, cross stitching, yoga, meditation, self care, virtual museum tour, storytelling etc.
 
-* Lesson or resource development sprint: This can be 1 day - 1 month long collaborative effort to develop lesson to resources relevant to The Carpentries community. 
+* Lesson or resource development sprint: This can be a 1 day - 1 month-long collaborative effort to develop lesson to resources relevant to The Carpentries community. 
 
 * Other: If none of these sessions fits your idea, please use the "other" option.
 
-### How does the "Issue Template" look like?
+### What does the "Issue Template" look like?
 
-Here is how the template looks like.
-When a comment starts with "<"followed by "!--" and ends with "-->", it will not appear in the final issue.
+Here is an example of the issue template: 
+
+When a comment starts with "<" followed by "!--" and ends with "-->", it will not appear in the final issue.
 
 The different text fields start with "###", which can be filled by replacing "WRITE HERE".
 
@@ -92,7 +93,7 @@ Please complete the following sections when you open a new proposal issue.
 
 ### Relative time zones
 
-Here are relative time zones that you can use if you don't want to provide their exact time zone and countries for privacy reason.
+Here are relative time zones that you can use if you don't want to provide your exact time zone or country for privacy reasons.
 
 - Oceania / North America / Antarctica for UTC−12:00 - UTC−07:00
 - North and South America / Antarctica for UTC−06:00 -
@@ -107,11 +108,11 @@ UTC+14:00
 
 *Who are regional host/wranglers?*
 
-- This event can happen only with your help. Therefore, we would like invite you to become our regional voluneer/wrangler in your time zone to help ensure that the proposed sessions can happen as scheduled during the event.	
+- This event can happen only with your help. Therefore, we would like invite you to become a regional voluneer/wrangler in your time zone to help ensure that the proposed sessions can happen as scheduled during the event.	
 - Based on your availability, you will be assigned 1 or 2, 1.5 hour long or shorter sessions to chair. 
-- You will coordinate with the session leads before their session to make sure that their slides or other required materials - work. 
-- During the session you will introduce the session lead and other facilitators, share the link of the notes with the attendees, introduce the Code of Conduct and participation guideline, and with the permission of the attendees record the presentation parts of the session. 
-- Before the conference you will be given transferable skill training on how to chair online sessions and how to use Zoom to host call, record talks, and use breakout room.
+- You will coordinate with the session leads before their session to make sure that their slides or other required materials are ready to present. 
+- During the session you will introduce the session lead and other facilitators, share the link of the notes with the attendees, introduce the Code of Conduct and participation guideline, and, with the permission of the attendees, record the presentation parts of the session. 
+- Before the conference you will be given transferable skill training on how to chair online sessions and how to use Zoom to host the call, record talks, and use breakout rooms.
 
 *I am in! Where to sign up?*
 
