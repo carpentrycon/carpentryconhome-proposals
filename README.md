@@ -21,7 +21,7 @@ Here are the steps for submitting a proposal:
 
 ### What are the different kinds of sessions that can be proposed?
 
-We have listed a few ideas of session types that include breakout discussion, skill-up, social event, lightning talk, informal meetup, panel, lesson or resource development sprint or other. 
+We have listed a few ideas of session types that include breakout discussion, skill-up, social event, informal meetup, panel, lesson or resource development sprint or other. 
 We encourage designing a proposal that invites and welcomes participation from a diverse community of learner, educators, instructors, maintainers, researchers, developers, artists, and other stakeholders online.
 
 Each session lead is encouraged to list the expected outcome from their session. Ideally there should be apossibility to record a video from the session and/or create a blog post summary after their session is over.
@@ -31,8 +31,6 @@ See the definition of each event below:
 * Breakout discussion: These sessions are 1.5 hours long and conducted in a round table format. They will play crucial role in connecting the conference participants based on their common interests and stimulate discussion on the relevant topics. A few examples of the breakout sessions from CarpentryCon Dublin 2018:Chasing Funding for Workshops and The Carpentries Membership, How Can We Develop New Curricula and Contribute to Existing Lessons, Incubating a New Carpentry, Mentoring, etc. 
 
 * Skill-up workshops: A workshop is a way for you to pass on your ideas and expertise to other participants in a 1.5 - 2 hours long session. You can reach out to a larger numbers of people by conducting a workshop on the topic that you find important and facilitate a positive learning environment for the attendees. It can also be a training workshop that will allow participants to develop new skills. A few examples of the workshops from the CarpentryCon 2018 are: Ally workshop, Bring and Build Your Own Lesson 'Carpentries-style', Next Steps in R, Library Carpentry On-Boarding, Project Leadership, Speaking Effectively, Contributing on GitHub, Leading a Research Lab, Shell Tips and Tricks, etc.
-
-* Lightning talk: Lightning talks are short 3-minute long presentations that allow you to present your work, idea, interest etc. to the other participants of the conference.
 
 * Poster session: A poster will allow you to exchange your work and idea with others in an informal manner during a poster session. A 1.5-2 hours long session will be allotted in the program for poster presentation.
 
@@ -63,7 +61,7 @@ Please complete the following sections when you open a new proposal issue.
 ### Session details
 
 * Session type: WRITE HERE 
-<!-- Choose from these options: Breakout discussion, skill-up, social event, lightning talk, informal meetup, panel, lesson or resource development sprint or other -->
+<!-- Choose from these options: Breakout discussion, skill-up, social event, informal meetup, panel, lesson or resource development sprint or other -->
 
 * Keywords: WRITE HERE 
 <!--Please provide 3-5 keywords to help your expected target audience to decide the relevance of this session-->
