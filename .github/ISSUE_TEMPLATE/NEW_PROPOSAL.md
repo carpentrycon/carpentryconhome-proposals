@@ -1,4 +1,3 @@
-
 ---
 name: "\U0001F4D6 New Proposal"
 about: Template for creating a new proposal
