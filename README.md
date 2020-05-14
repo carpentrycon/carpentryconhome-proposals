@@ -3,7 +3,7 @@
 Welcome to the CarpentryCon @ Home Proposal Repository!🌸
 
 This repository provides a location to add all proposals for CarpentryCon @ Home as GiHub issues.
-Please note that [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) applied to this event and the current repository.
+Please note that [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) applies both to this event and the current repository.
 
 ## More about CarpentryCon @ Home:
 
