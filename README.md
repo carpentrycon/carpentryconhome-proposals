@@ -1,10 +1,14 @@
 # CarpentryCon @ Home Proposal Repository
 
-This repository provides a location to add all proposals for CarpentryCon @ Home as [issues]().
+This repository provides a location to add all proposals for CarpentryCon @ Home as GiHub issues.
 
 ## More about CarpentryCon @ Home:
 
-You asked and we listened! A small group of volunteers have formed an ad-hoc organising committee to make sure that a community conference happens this year. One of the motivations is to make place for our community members to show off their accomplishments and hard work in the regional and global Carpentries network in last years, and connect with others in the community. Therefore, we are moving forward with organising the The CarpentryCon@Home, a virtual version of The CarpentryCon conference and this can happen only with your help. Before we assess what we can do, we would like invite you to become our regional voluneer/wrangler in your time zone to help ensure that the keynotes, lectures, skill-up and breakout session (which will be planned in your time zone) during the conference can happen. 			
+You asked and we listened! 
+
+A small group of volunteers have formed an ad-hoc organising committee to make sure that a community conference happens this year. One of the motivations is to make place for our community members to show off their accomplishments and hard work in the regional and global Carpentries network in last years, and connect with others in the community. Therefore, we are moving forward with organising the The CarpentryCon@Home, A virtual version of The CarpentryCon conference.
+
+In this repo, we invite you to add your proposal of a session details for which is provided below.
 
 ## Instructions on the submission process
 
@@ -109,6 +113,7 @@ UTC+14:00
 
 *Who are regional host/wranglers?*
 
+- This event can happen only with your help. Therefore, we would like invite you to become our regional voluneer/wrangler in your time zone to help ensure that the proposed sessions can happen as scheduled during the event.	
 - Based on your availability, you will be assigned 1 or 2, 1.5 hour long or shorter sessions to chair. 
 - You will coordinate with the session leads before their session to make sure that their slides or other required materials - work. 
 - During the session you will introduce the session lead and other facilitators, share the link of the notes with the attendees, introduce the Code of Conduct and participation guideline, and with the permission of the attendees record the presentation parts of the session. 
