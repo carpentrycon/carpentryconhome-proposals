@@ -16,7 +16,7 @@ We suggest using bullets (indicated by * or -) or checkboxes [ ] (filled checkbo
 - [ ] ITEM1
 - [ ] ITEM2
 
-#### What the the specific tasks and ideas related to this issue?
+#### What are the specific tasks and ideas related to this issue?
 <!-- Please discuss your issues in soncise tasks and ideas that one can contribute to solve this issue. 
 We suggest using bullets (indicated by * or -) or checkboxes [ ] (filled checkbox [x]) here -->
 
