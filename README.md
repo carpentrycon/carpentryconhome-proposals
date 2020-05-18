@@ -107,6 +107,31 @@ UTC+11:30
 - Asia / Oceania / Antarctica for UTC+12:00 -
 UTC+14:00
 
+### The use of issue labels
+We use issue labels to manage the session proposals and make it easier for everyone to find relevant information.
+
+#### session types
+Label your issue with the label describing the type of the session you are proposing. Consult the description above.
+session breakout
+session skill-up
+session panel
+session social
+session sprint
+session other
+
+# status
+WIP
+ready for review
+under review
+scheduled
+
+# timezone
+UTC -12 to -7
+UTC -06 to -01
+UTC +-00 to +05:45
+UTC +06 to +11:30
+UTC +12 to +14
+
 ### Volunteer to be a regional host/wrangler
 
 *Who are regional host/wranglers?*
