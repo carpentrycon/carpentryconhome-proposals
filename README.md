@@ -111,26 +111,44 @@ UTC+14:00
 We use issue labels to manage the session proposals and make it easier for everyone to find relevant information.
 
 #### session types
-Label your issue with the label describing the type of the session you are proposing. Consult the description above.
-session breakout
-session skill-up
-session panel
-session social
-session sprint
-session other
+Label your issue with the label describing the type of the session you are proposing. Consult the description above and select one of the following labels.
 
-# status
-WIP
-ready for review
-under review
-scheduled
+![](https://img.shields.io/badge/-session_breakout-e8963e.svg)
+![](https://img.shields.io/badge/-session_skill--up-e8963e.svg)
+![](https://img.shields.io/badge/-session_panel-e8963e.svg)
+![](https://img.shields.io/badge/-session_social-e8963e.svg)
+![](https://img.shields.io/badge/-session_sprint-e8963e.svg)
+![](https://img.shields.io/badge/-session_other-e8963e.svg)
 
-# timezone
-UTC -12 to -7
-UTC -06 to -01
-UTC +-00 to +05:45
-UTC +06 to +11:30
-UTC +12 to +14
+#### status
+Label your proposal with
+![](https://img.shields.io/badge/-WIP-94a5e0.svg)
+when it is still work in progress. Change the label to
+![](https://img.shields.io/badge/-ready_for_review-94a5e0.svg)
+if you want us to review it.
+
+We will change it to
+![](https://img.shields.io/badge/-under_reaview-94a5e0.svg) when we start the review process, and change again to
+![](https://img.shields.io/badge/-scheduled-94a5e0.svg)
+after it has been approved and finds it's place in the conference agenda.
+
+#### timezone
+Let us and others know in which timezone range is best for you to host a session by selecting one of the following labels 
+
+![](https://img.shields.io/badge/-Europe_--_Africa_--_Asia-0b1d77.svg)
+for Europe / Africa / Asia / Antarctica for UTC±00:00 - UTC+05:45 
+
+![](https://img.shields.io/badge/-North_--_South_America-0b1d77.svg)
+for North and South America / Antarctica for UTC−06:00 - UTC−01:00
+
+![](https://img.shields.io/badge/-Oceania--_North_America-0b1d77.svg)
+for Oceania / North America / Antarctica for UTC−12 - UTC-07
+
+![](https://img.shields.io/badge/-Asia-0b1d77.svg)
+for Asia / Antarctica for UTC+06:00 - UTC+11:30
+
+![](https://img.shields.io/badge/-Asia_--_Oceania-0b1d77.svg)
+for Asia / Oceania / Antarctica for UTC+12:00 - UTC+14:00
 
 ### Volunteer to be a regional host/wrangler
 
