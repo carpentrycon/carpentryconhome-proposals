@@ -111,7 +111,7 @@ UTC+14:00
 We use issue labels to manage the session proposals and make it easier for everyone to find relevant information.
 
 #### session types
-Label your issue with the label describing the type of the session you are proposing. Consult the description above and select one of the following labels.
+We will label your issue with the label describing the type of the session you are proposing.
 
 ![](https://img.shields.io/badge/-session_breakout-e8963e.svg)
 ![](https://img.shields.io/badge/-session_skill--up-e8963e.svg)
@@ -121,11 +121,11 @@ Label your issue with the label describing the type of the session you are propo
 ![](https://img.shields.io/badge/-session_other-e8963e.svg)
 
 #### status
-Label your proposal with
+Proposals that are work in progress will be labelled 
 ![](https://img.shields.io/badge/-WIP-94a5e0.svg)
-when it is still work in progress. Change the label to
+The lable will be changed to 
 ![](https://img.shields.io/badge/-ready_for_review-94a5e0.svg)
-if you want us to review it.
+when ready to be reviewed.
 
 We will change it to
 ![](https://img.shields.io/badge/-under_reaview-94a5e0.svg) when we start the review process, and change again to
@@ -133,7 +133,7 @@ We will change it to
 after it has been approved and finds it's place in the conference agenda.
 
 #### timezone
-Let us and others know in which timezone range is best for you to host a session by selecting one of the following labels 
+Each session will also be labelled with the preferred time zone range.
 
 ![](https://img.shields.io/badge/-Europe_--_Africa_--_Asia-0b1d77.svg)
 for Europe / Africa / Asia / Antarctica for UTC±00:00 - UTC+05:45 
