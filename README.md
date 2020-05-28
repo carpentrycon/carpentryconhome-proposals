@@ -107,6 +107,52 @@ UTC+11:30
 - Asia / Oceania / Antarctica for UTC+12:00 -
 UTC+14:00
 
+### Issue labels
+We use issue labels to help indicate and categorize the session proposals' types, intended tiezones and status.
+
+#### session types
+We will label your issue with the label describing the type of the session you are proposing.
+
+![](https://img.shields.io/badge/-session_breakout-e8963e.svg)
+![](https://img.shields.io/badge/-session_skill--up-e8963e.svg)
+![](https://img.shields.io/badge/-session_panel-e8963e.svg)
+![](https://img.shields.io/badge/-session_social-e8963e.svg)
+![](https://img.shields.io/badge/-session_sprint-e8963e.svg)
+![](https://img.shields.io/badge/-session_other-e8963e.svg)
+
+#### Status
+
+The status will progress through the following labels:  
+
+![](https://img.shields.io/badge/-WIP-94a5e0.svg) for work in progress  
+
+![](https://img.shields.io/badge/-ready_for_review-94a5e0.svg)
+when the proposal is ready to be reviewed.  
+
+![](https://img.shields.io/badge/-under_reaview-94a5e0.svg) when we start the review process  
+
+![](https://img.shields.io/badge/-scheduled-94a5e0.svg)
+after it has been approved and scheduled with a date and time
+
+
+#### Timezone
+Each session will also be labelled with the preferred time zone range(s).
+
+![](https://img.shields.io/badge/-Europe_--_Africa_--_Asia-0b1d77.svg)
+for Europe / Africa / Asia / Antarctica for UTC±00:00 - UTC+05:45 
+
+![](https://img.shields.io/badge/-North_--_South_America-0b1d77.svg)
+for North and South America / Antarctica for UTC−06:00 - UTC−01:00
+
+![](https://img.shields.io/badge/-Oceania--_North_America-0b1d77.svg)
+for Oceania / North America / Antarctica for UTC−12 - UTC-07
+
+![](https://img.shields.io/badge/-Asia-0b1d77.svg)
+for Asia / Antarctica for UTC+06:00 - UTC+11:30
+
+![](https://img.shields.io/badge/-Asia_--_Oceania-0b1d77.svg)
+for Asia / Oceania / Antarctica for UTC+12:00 - UTC+14:00
+
 ### Volunteer to be a regional host/wrangler
 
 *Who are regional host/wranglers?*
@@ -120,4 +166,3 @@ UTC+14:00
 *I am in! Where to sign up?*
 
 You can sign up on this [public sheet for volunteers](https://docs.google.com/spreadsheets/d/13ONzgvIilIy1T_9ad_CDFmSGR_VjqEXTKyz1fit9iXA/edit?usp=sharing).
-
