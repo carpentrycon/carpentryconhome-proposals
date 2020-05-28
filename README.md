@@ -107,8 +107,8 @@ UTC+11:30
 - Asia / Oceania / Antarctica for UTC+12:00 -
 UTC+14:00
 
-### The use of issue labels
-We use issue labels to manage the session proposals and make it easier for everyone to find relevant information.
+### Issue labels
+We use issue labels to help indicate and categorize the session proposals' types, intended tiezones and status.
 
 #### session types
 We will label your issue with the label describing the type of the session you are proposing.
@@ -120,20 +120,23 @@ We will label your issue with the label describing the type of the session you a
 ![](https://img.shields.io/badge/-session_sprint-e8963e.svg)
 ![](https://img.shields.io/badge/-session_other-e8963e.svg)
 
-#### status
-Proposals that are work in progress will be labelled 
-![](https://img.shields.io/badge/-WIP-94a5e0.svg)
-The lable will be changed to 
+#### Status
+
+The status will progress through the following labels:  
+
+![](https://img.shields.io/badge/-WIP-94a5e0.svg) for work in progress  
+
 ![](https://img.shields.io/badge/-ready_for_review-94a5e0.svg)
-when ready to be reviewed.
+when the proposal is ready to be reviewed.  
 
-We will change it to
-![](https://img.shields.io/badge/-under_reaview-94a5e0.svg) when we start the review process, and change again to
+![](https://img.shields.io/badge/-under_reaview-94a5e0.svg) when we start the review process  
+
 ![](https://img.shields.io/badge/-scheduled-94a5e0.svg)
-after it has been approved and finds it's place in the conference agenda.
+after it has been approved and scheduled with a date and time
 
-#### timezone
-Each session will also be labelled with the preferred time zone range.
+
+#### Timezone
+Each session will also be labelled with the preferred time zone range(s).
 
 ![](https://img.shields.io/badge/-Europe_--_Africa_--_Asia-0b1d77.svg)
 for Europe / Africa / Asia / Antarctica for UTC±00:00 - UTC+05:45 
@@ -163,4 +166,3 @@ for Asia / Oceania / Antarctica for UTC+12:00 - UTC+14:00
 *I am in! Where to sign up?*
 
 You can sign up on this [public sheet for volunteers](https://docs.google.com/spreadsheets/d/13ONzgvIilIy1T_9ad_CDFmSGR_VjqEXTKyz1fit9iXA/edit?usp=sharing).
-
