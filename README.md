@@ -39,6 +39,16 @@ See the definition of each event below:
 
 * **Lesson or resource development sprint**: This can be 1 day - 1 month long collaborative effort to develop lesson to resources relevant to The Carpentries community. 
 
+* **Lightning Talks**: A 5 minute presentation for community members to present information that aligns with our themes. The talks will be broken down into 3 minutes for presentation and 2 minutes for Q&A. Additional conversations will take place on the #carpentrycon slack channel. 
+
+Below you will find the days/time Lightening Talks will take place. Please be sure to indicate which session you would like to participate in. 
+   - 0300 UTC, Tuesday July 21
+   - 1000 UTC, Wednesday July 29
+   - 1300 UTC, Thursday August 6
+   - 1700 UTC, Tuesday August 11
+   - 1800 UTC, Wednesday August 19
+   - 2000 UTC, Thursday August 27
+
 * **Other**: If none of these sessions fits your idea, please use the "other" option.
 
 ### What does the "Issue Template" look like?
