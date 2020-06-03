@@ -44,7 +44,7 @@ Please complete the following sections when you open a new proposal issue.
 <!-- please suggest suitable time zones -->
 
 * Would you like to volunteer to be listed as a wrangler/host for your time zone: WRITE HERE  
-<!-- Respond in "Yes", "No", "Contact me with more details". Wraglers/hosts will coordinate 1-2 other sessions by coordinating with their session leads before their session to make sure that their slides or other required materials work. During the session they will introduce the session lead and other facilitators, share the link of the notes with the attendees, introduce the Code of Conduct and participation guideline, and with the permission of the attendees record the presentation parts of the session.-->
+<!-- Respond in "Yes", "No", "Contact me with more details". Wranglers/hosts will coordinate 1-2 other sessions by coordinating with their session leads before their session to make sure that their slides or other required materials work. During the session they will introduce the session lead and other facilitators, share the link of the notes with the attendees, introduce the Code of Conduct and participation guideline, and with the permission of the attendees record the presentation parts of the session.-->
 
 ### Is there any help you would like to invite from the community? Please provide below in bullet points.
 <!-- This can be inviting collaboration to write proposal, lead the session, invite speakers and so on -->
