@@ -41,7 +41,7 @@ See the definition of each event below:
 
 * **Lightning Talks**: A 5 minute presentation for community members to present information that aligns with our themes. The talks will be broken down into 3 minutes for presentation and 2 minutes for Q&A. Additional conversations will take place on the #carpentrycon slack channel. 
 
-Below you will find the days/time Lightening Talks will take place. Please be sure to indicate which session you would like to participate in. 
+Below you will find the days/time Lightning Talks will take place. Please be sure to indicate which session you would like to participate in. 
    - 0300 UTC, Tuesday July 21
    - 1000 UTC, Wednesday July 29
    - 1300 UTC, Thursday August 6
