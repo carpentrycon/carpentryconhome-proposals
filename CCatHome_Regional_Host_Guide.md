@@ -26,7 +26,7 @@ In the agenda you will see the links to either Zoom or crowdcast events.
 3.  Useful links and guidelines for everyone:
     - [Zoom Instructions](https://docs.google.com/document/d/1_7vxMtcqdn8s-zYOG6THnxZvs4uYmfJUySjNVeVFj98/edit?usp=sharing) in details
 
-    - Crowdcast Instruction (coomming soon)
+    - Crowdcast Instruction (coming soon)
 
 ## Code of Conduct
 
