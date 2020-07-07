@@ -85,9 +85,9 @@ Detailed [Zoom Instructions](https://docs.google.com/document/d/1_7vxMtcqdn8s-zY
 
 #### Before the session
 
--   Please read the [Zoom Instructions](https://docs.google.com/document/d/1_7vxMtcqdn8s-zYOG6THnxZvs4uYmfJUySjNVeVFj98/edit?usp=sharing) and test you Zoom account
+-   Please read the [Zoom Instructions](https://docs.google.com/document/d/1_7vxMtcqdn8s-zYOG6THnxZvs4uYmfJUySjNVeVFj98/edit?usp=sharing) and test your Zoom account
 
-- Connect with your co-host/CoC facilitator and schedule a meeting with them to test the Zoom and explore the options you both will have available in Zoom
+- If the session has a co-host/CoC facilitator, connect with them and schedule a meeting with them to test the Zoom and explore the options you both will have available in Zoom
 
 - Connect with the session leads for which you will be hosting the sessions with the session details including the agenda, time in their time zone, zoom link to the call, Etherpad link for the shared notes and [Zoom Instructions](https://docs.google.com/document/d/1_7vxMtcqdn8s-zYOG6THnxZvs4uYmfJUySjNVeVFj98/edit?usp=sharing)
 
@@ -106,7 +106,7 @@ Detailed [Zoom Instructions](https://docs.google.com/document/d/1_7vxMtcqdn8s-zY
 
 - Ask your co-host to press record for the video to the cloud. If you do not have a Session Co-Host present, click "Record" at the bottom of the screen and record the session to the cloud.
 
-- If you do not have a Session Co-Host present, help the Session Facilitator manage participants by e.g. muting those who aren't speaking. (Open the "Participants" tab → find their name → click "Mute")
+- If you do not have a Session Co-Host present, help the Session Lead manage participants by e.g. muting those who aren't speaking. (Open the "Participants" tab → find their name → click "Mute")
 
 - Convey these reminders:
 
@@ -129,6 +129,8 @@ Detailed [Zoom Instructions](https://docs.google.com/document/d/1_7vxMtcqdn8s-zY
 #### At the end of the session
 
 - Thank the session leads, helpers, co-host and attendees
+
+- Remind participants to fill in the feedback survey.
 
 - If you don't have a co-host in the call, press the stop button for recording.
 
@@ -187,7 +189,7 @@ Detailed [Zoom Instructions](https://docs.google.com/document/d/1_7vxMtcqdn8s-zY
 #### Before the sessions
 
 - Your regional host should contact with you the connection details for your session
-- Please check the agenda and add your details in your calendar
+- Please check the agenda and add the details in your calendar
 - Please let the CarpentryCon @ home taskforce and your regional host know if any changes in your session have been made after the approval of your proposal, and if at all you don't want to record your session
 - Please read the [Zoom Instructions](https://docs.google.com/document/d/1_7vxMtcqdn8s-zYOG6THnxZvs4uYmfJUySjNVeVFj98/edit?usp=sharing) and test you Zoom account
 - Connect with your session helpers to plan your session
