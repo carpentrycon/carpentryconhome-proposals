@@ -165,7 +165,7 @@ for Asia / Oceania / Antarctica for UTC+12:00 - UTC+14:00
 
 ### Volunteer to be a regional host
 
-This event can happen only with your help. Therefore, we would like invite you to become a regional voluneer/wrangler in your time zone to help ensure that the proposed sessions can happen as scheduled during the event.
+This event can happen only with your help. Therefore, we would like invite you to become a regional volunteer/wrangler in your time zone to help ensure that the proposed sessions can happen as scheduled during the event.
 
 The regional hosts will serve as the main hosts or co-host for different sessions.
 
