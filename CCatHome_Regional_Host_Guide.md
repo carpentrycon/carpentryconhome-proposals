@@ -196,7 +196,6 @@ Detailed [Zoom Instructions](https://docs.google.com/document/d/1_7vxMtcqdn8s-zY
 - If possible, please put materials for your session on your personal or the CarpentryCon @ Home proposal repository (by a pull request): [https://github.com/carpentrycon/carpentryconhome-proposals](https://github.com/carpentrycon/carpentryconhome-proposals)
 - If possible, publish your slides and other materials on Zenodo, FigShare or other open platforms.
 - Add more details and customise the shared nodes / collaborative documents prepared by the task force. Make sure the document contains links to all relevant resources.
-- Link details for your session the shared notes shared by your regional host
 - Double-check the schedule and arrive at the call minimum 10 minutes before the event to test your connection, webcam, and headphone
 
 #### At the start of the sessions
