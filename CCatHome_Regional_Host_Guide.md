@@ -15,7 +15,7 @@ In the agenda you will see the links to either Zoom or crowdcast events.
 - Create a free zoom account: [https://zoom.us/](https://zoom.us/)
 - Test that your headphones and webcam works: [https://zoom.us/test](https://zoom.us/test)
 
-- Follow the link to the online agenda where the zoom links for registration should be available for each session
+- Connection information should be available on the session etherpad linked from [this CC @ Home pad](https://pad.carpentries.org/carpentryconathome)
 
 ## Important Guidelines
 
