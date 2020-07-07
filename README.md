@@ -165,19 +165,19 @@ for Asia / Oceania / Antarctica for UTC+12:00 - UTC+14:00
 
 ### Volunteer to be a regional host
 
-This event can happen only with your help. Therefore, we would like invite you to become a regional volunteer/wrangler in your time zone to help ensure that the proposed sessions can happen as scheduled during the event.
+This event can happen only with your help. Therefore, we would like invite you to become a regional host/wrangler in your time zone to help ensure that the proposed sessions can happen as scheduled during the event.
 
 The regional hosts will serve as the main hosts or co-host for different sessions.
 
-We invite volunteers to serve as [regional hosts](https://github.com/carpentrycon/carpentryconhome-proposals#volunteer-to-be-a-regional-hostwrangler) who will be the main host or co-host/Code of Conduct (CoC) facilitators in each session. 
-- The regional hosts will be the point of contacts for sessions leads. 
+- They will be the point of contacts for sessions leads. 
 - They will coordinate with the session leads before their session to make sure that their slides or other required materials are ready for the event. 
-- Based on your availability, they will be assigned 1 or 2, 1.5 hour long or shorter sessions as the **main host**. 
-  - As a **main host**, they will manage Zoom for running the session, record talks, and use breakout rooms.
+
+- Based on their availability, they will be assigned 1 or 2, 1.5 hour long or shorter sessions as the **main host**. 
+  - As a main host, they will manage Zoom for running the session, record talks, and use breakout rooms.
   - They will introduce the session lead, helpers and co-host/CoC facilitators.
   - They will share the link of the shared notes with the attendees, introduce the Code of Conduct and participation guideline, and, with the permission of the attendees, record the presentation parts of the session. 
   - Before the conference they will be onboarded and provided details on their roles.
-- For another session that they are not a main-host for,  based on their availability they will be designated as the **co-host/CoC facilitators**.
+- For another session that they are not a main-host for, they will be designated as the **co-host/CoC facilitators**.
   - They will be provide teachnical support to the main host if needed 
   - They will be present as a CoC contact for the session participants
   - Before the conference they will be onboarded and provided details on their roles.
