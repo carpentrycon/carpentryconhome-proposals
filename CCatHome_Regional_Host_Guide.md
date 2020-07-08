@@ -40,6 +40,10 @@ Expected to adhere to the Carpentries Code of Conduct.
 - Direct link to the [CoC Facilitators Roles and Responsibilities](https://docs.google.com/document/d/1p0GIrNzXHYJlJmFr_18oOkOIFRnfH51BqlBmqhNni-Y/edit?usp=sharing)
 
 ## Role-Specific Guidelines for CarpentryCon@Home
+There are following roles in the CarpentryCon\@Home event beside the
+task force members:
+- Regional hosts
+- CoC facilitators who will be present as co-hosts with the regional hosts
 
 ### Instructions for the regional hosts
 
