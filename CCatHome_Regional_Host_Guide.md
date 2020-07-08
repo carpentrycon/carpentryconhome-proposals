@@ -195,7 +195,8 @@ Detailed [Zoom Instructions](https://docs.google.com/document/d/1_7vxMtcqdn8s-zY
 - Connect with your session helpers to plan your session
 - If possible, please put materials for your session on your personal or the CarpentryCon @ Home proposal repository (by a pull request): [https://github.com/carpentrycon/carpentryconhome-proposals](https://github.com/carpentrycon/carpentryconhome-proposals)
 - If possible, publish your slides and other materials on Zenodo, FigShare or other open platforms.
-- Add more details and customise the shared nodes / collaborative documents prepared by the task force. Make sure the document contains links to all relevant resources.
+- Add more details and customise the shared notes / collaborative documents prepared by the task force. Make sure the document contains links to all relevant resources.
+- Link any additional details for your session in the shared notes (you should have received an Etherpad link from your regional host)
 - Double-check the schedule and arrive at the call minimum 10 minutes before the event to test your connection, webcam, and headphone
 
 #### At the start of the sessions
@@ -209,7 +210,7 @@ Detailed [Zoom Instructions](https://docs.google.com/document/d/1_7vxMtcqdn8s-zY
 
     - When you ask a question, encourage raising hand in Zoom so that you can select someone who hasn't already spoken
 
-    -   Point out if someone has already spoken multiple times by saying "we would like to hear from folks who haven't already participated in the discussion"
+    - Point out if someone has already spoken multiple times by saying "we would like to hear from folks who haven't already participated in the discussion"
 
 -  Encourage shared note-taking in the collaborative document
 
