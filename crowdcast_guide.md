@@ -1,5 +1,7 @@
 # Crowdcast Guide from CarpentryCon @ Home
 
+_This guide was borrowed from SciPy 2020'S guide for hosts._ 
+
 ## Before You Host a Session
 **Make sure you are using a [Google Chrome](https://www.google.com/chrome/) browser!**
 
