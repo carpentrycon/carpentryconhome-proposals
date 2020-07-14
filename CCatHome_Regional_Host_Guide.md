@@ -75,7 +75,7 @@ Detailed [Zoom Instructions](https://docs.google.com/document/d/1_7vxMtcqdn8s-zY
 
     b.  Then, click on "Record to the cloud".
 
-- To create breakout rooms:
+- To create breakout rooms ([Guide to managing breakout rooms in Zoom](https://support.zoom.us/hc/en-us/articles/206476313-Managing-Breakout-Rooms)):
 
     a.  Click on "Breakout rooms" at the bottom of the screen.
 
