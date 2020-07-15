@@ -32,6 +32,7 @@ In the agenda you will see the links to either Zoom or crowdcast events.
     - join the #carpentrycon channel for general chat 
     - #cchomelogistics to be in the loop with the task force and meeting hosts
     - #carpentrycon-helpdesk for troubleshooting and solving issues
+5. [Host onboarding video](https://youtu.be/ze9GnFsUTjo) watch it if you couldn't join the onbording session.
 
 ## Code of Conduct
 
