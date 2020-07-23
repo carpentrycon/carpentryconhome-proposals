@@ -189,12 +189,9 @@ Detailed [Zoom Instructions](https://docs.google.com/document/d/1_7vxMtcqdn8s-zY
 
 #### General instructions
 
-- Types of sessions at CarpentryCon @ home: [https://github.com/carpentrycon/carpentryconhome-proposals/blob/master/README.md](https://github.com/carpentrycon/carpentryconhome-proposals/blob/master/README.md)
-- Speakers guide
-- talks
-- workshop
-- collaborative sessions
-- etc
+- Check what [types of sessions](https://github.com/carpentrycon/carpentryconhome-proposals/blob/master/README.md) you have agreed to lead
+- Double check [the conference page](https://2020.carpentrycon.org/schedule/) and confirm with [the taskforce](https://2020.carpentrycon.org/task-force/) for your session's schedule
+- Find [the Etherpad for your session](https://pad.carpentries.org/carpentryconathome) and edit details as needed to share with your attendees
 
 #### Before the sessions
 
