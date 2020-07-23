@@ -6,16 +6,16 @@ This is the guide for CarpentryCon\@Home Presenters and Regional Guides.
 
 ### Video Conferencing
 
-CarpentryCon\@Home will be hosted via the [Zoom Conferencing Platform](https://zoom.us/) and [crowdcast.io](https://www.crowdcast.io/)
+CarpentryCon @ Home will be hosted via the [Zoom Conferencing Platform](https://zoom.us/) and [crowdcast.io](https://www.crowdcast.io/)
 
-In the agenda you will see the links to either Zoom or crowdcast events.
+In the agenda, you will see the links to either Zoom or crowd cast events.
 
 #### Zoom accounts:
 
 - Create a free zoom account: [https://zoom.us/](https://zoom.us/)
-- Test that your headphones and webcam works: [https://zoom.us/test](https://zoom.us/test)
+- Test that your headphones and webcam work: [https://zoom.us/test](https://zoom.us/test)
 
-- Connection information should be available on the session etherpad linked from [this CC @ Home pad](https://pad.carpentries.org/carpentryconathome)
+- Connection information should be available on the session Etherpad linked from [this CC @ Home pad](https://pad.carpentries.org/carpentryconathome)
 
 ## Important Guidelines
 
@@ -32,7 +32,7 @@ In the agenda you will see the links to either Zoom or crowdcast events.
     - join the #carpentrycon channel for general chat 
     - #cchomelogistics to be in the loop with the task force and meeting hosts
     - #carpentrycon-helpdesk for troubleshooting and solving issues
-5. [Host onboarding video](https://youtu.be/ze9GnFsUTjo) watch it if you couldn't join the onbording session.
+5. [Host onboarding video](https://youtu.be/ze9GnFsUTjo): please watch it, if you couldn't join the onboarding session.
 
 ## Code of Conduct
 
@@ -46,7 +46,7 @@ Expected to adhere to the Carpentries Code of Conduct.
 - Direct link to the [CoC Facilitators Roles and Responsibilities](https://docs.google.com/document/d/1p0GIrNzXHYJlJmFr_18oOkOIFRnfH51BqlBmqhNni-Y/edit?usp=sharing)
 
 ## Role-Specific Guidelines for CarpentryCon@Home
-There are following roles in the CarpentryCon\@Home event beside the
+We have the following roles in the CarpentryCon\@Home event beside the
 task force members:
 - Regional hosts
 - CoC facilitators who will be present as co-hosts with the regional hosts
@@ -190,18 +190,18 @@ Detailed [Zoom Instructions](https://docs.google.com/document/d/1_7vxMtcqdn8s-zY
 #### General instructions
 
 - Check what [types of sessions](https://github.com/carpentrycon/carpentryconhome-proposals/blob/master/README.md) you have agreed to lead
-- Double check [the conference page](https://2020.carpentrycon.org/schedule/) and confirm with [the taskforce](https://2020.carpentrycon.org/task-force/) for your session's schedule
+- Double-check [the conference page](https://2020.carpentrycon.org/schedule/) and confirm with [the taskforce](https://2020.carpentrycon.org/task-force/) for your session's schedule
 - Find [the Etherpad for your session](https://pad.carpentries.org/carpentryconathome) and edit details as needed to share with your attendees
 
 #### Before the sessions
 
-- Your regional host should contact with you the connection details for your session
-- Please check the agenda and add the details in your calendar
+- Your regional host should contact you with the connection details for your session
+- Please add the agenda and relevant details in your calendar
 - Please let the CarpentryCon @ home taskforce and your regional host know if any changes in your session have been made after the approval of your proposal, and if at all you don't want to record your session
 - Please read the [Zoom Instructions](https://docs.google.com/document/d/1_7vxMtcqdn8s-zYOG6THnxZvs4uYmfJUySjNVeVFj98/edit?usp=sharing) and test you Zoom account
 - Connect with your session helpers to plan your session
 - If possible, please put materials for your session on your personal or the CarpentryCon @ Home proposal repository (by a pull request): [https://github.com/carpentrycon/carpentryconhome-proposals](https://github.com/carpentrycon/carpentryconhome-proposals)
-- If possible, publish your slides and other materials on Zenodo, FigShare or other open platforms.
+- If possible, publish your slides and other materials on Zenodo, FigShare, or other open platforms.
 - Add more details and customise the shared notes / collaborative documents prepared by the task force. Make sure the document contains links to all relevant resources.
 - Link any additional details for your session in the shared notes (you should have received an Etherpad link from your regional host)
 - Double-check the schedule and arrive at the call minimum 10 minutes before the event to test your connection, webcam, and headphone
@@ -210,7 +210,7 @@ Detailed [Zoom Instructions](https://docs.google.com/document/d/1_7vxMtcqdn8s-zY
 
 - Let the regional host know if you would or would not like to be a co-host on the Zoom during your session
 
-- The regional host will introduce your session and hand over the session to you - upon which please introduce yourself, and point to any details that attendees should know to continue participating in the session (such as a link in the shared notes, materials used in the session etc.)
+- The regional host will introduce your session and hand over the session to you - upon which please introduce yourself, and point to any details that attendees should know to continue participating in the session (such as a link in the shared notes, materials used in the session, etc.)
 - Cooperate with the host and co-host and ask for help whenever needed
 - Share your screen whenever you are presenting something
 - Ensure that you run an inclusive event by allowing everyone to speak.
