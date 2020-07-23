@@ -165,7 +165,7 @@ for Asia / Oceania / Antarctica for UTC+12:00 - UTC+14:00
 
 ### Volunteer to be a regional host
 
-This event can happen only with your help. Therefore, we would like invite you to become a regional host/wrangler in your time zone to help ensure that the proposed sessions can happen as scheduled during the event.
+This event can happen only with your help. Therefore, we invite you to become a regional host/wrangler in your time zone to help ensure that the proposed sessions can happen as scheduled during the event.
 
 The regional hosts will serve as the main hosts or co-host for different sessions.
 
@@ -173,14 +173,18 @@ The regional hosts will serve as the main hosts or co-host for different session
 - They will coordinate with the session leads before their session to make sure that their slides or other required materials are ready for the event. 
 
 - Based on their availability, they will be assigned 1 or 2, 1.5 hour long or shorter sessions as the **main host**. 
-  - As a main host, they will manage Zoom for running the session, record talks, and use breakout rooms.
+  - As a main host, they will manage Zoom to run the session, record talks, and use breakout rooms.
   - They will introduce the session lead, helpers and co-host/CoC facilitators.
-  - They will share the link of the shared notes with the attendees, introduce the Code of Conduct and participation guideline, and, with the permission of the attendees, record the presentation parts of the session. 
+  - They will share the link of the shared notes with the attendees, introduce the Code of Conduct (CoC) facilitators and participation guideline, and, with the permission of the attendees, record the presentation parts of the session. 
   - Before the conference they will be onboarded and provided details on their roles.
 - For another session that they are not a main-host for, they will be designated as the **co-host/CoC facilitators**.
-  - They will be provide teachnical support to the main host if needed 
+  - They will provide teachnical support to the main host if needed 
   - They will be present as a CoC contact for the session participants
   - Before the conference they will be onboarded and provided details on their roles.
 
+**Note**: The onboarding call has already taken place. Please [see this document for detail](https://github.com/carpentrycon/carpentryconhome-proposals/blob/master/CCatHome_Regional_Host_Guide.md).
+
 **I am in! Where to sign up?**
-- You can sign up on this [public sheet for volunteers](https://docs.google.com/spreadsheets/d/13ONzgvIilIy1T_9ad_CDFmSGR_VjqEXTKyz1fit9iXA/edit?usp=sharing).
+
+The signing up to volunteer is now possible by emailing the taskforce.
+- To identify a host in your regions, please see this [public sheet for volunteers](https://docs.google.com/spreadsheets/d/13ONzgvIilIy1T_9ad_CDFmSGR_VjqEXTKyz1fit9iXA/edit?usp=sharing).
